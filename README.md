@@ -1,4 +1,4 @@
-# Classe carro
+# Classe Carro
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
@@ -47,32 +47,25 @@ classe de carro para aperfeisoar as habilidades, e exercicio passado.
 ✔️ e saber que um carro faz Bi, Bi!!! kkk
 
 ## Distribuição
-
+https://github.com/xXLeo667Xx/Carro_atividade/blob/main/classe_carro.cpp
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
-Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+Programiz C++;
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Copiar o codigo, colar no C++, e testar se roda as informações do codigo.
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
 
 ## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+não temos isso no momento.
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-XML
-...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Não teve problemas.
 
 ## Recursos de inseridos 🧰
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
@@ -84,9 +77,8 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Somente o gostoso Leo Vinicius.
 
 ## Licença
-The MIT License (MIT)
-
-## Copyright ©️ Ano - Titulo do Projeto
+Não tenho 
+## Copyright ©️ Ano -Classe Carro
